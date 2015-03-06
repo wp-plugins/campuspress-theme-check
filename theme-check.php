@@ -3,7 +3,7 @@
 Plugin Name: CampusPress Theme Check
 Plugin URI: https://github.com/igmoweb/theme-check
 Description: A simple and easy way to test your theme before upload it to CampusPress
-Author: igmoweb
+Author: igmoweb,campuspress
 Author URI: http://campuspress.com
 Version: 1.0
 Requires at least: 3.8
